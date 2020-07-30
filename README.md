@@ -1,6 +1,6 @@
 # **HYPOTHESIS TESTING WITH SCIPY**
 
-  Familiar, a startup of blood transfusion! This Hypothesis testing is focused on developing `Familiar's` marketing strategy.**
+  Familiar, a startup of blood transfusion! This Hypothesis testing is focused on developing `Familiar's` marketing strategy.
 
 ## Project Goals:
    - Finding out if the average lifespan of a Vein Pack subscriber is significantly different from the average life expectancy of 71 years. (1 sample T-test)
