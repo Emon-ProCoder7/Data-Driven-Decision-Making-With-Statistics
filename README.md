@@ -1,6 +1,6 @@
 # **HYPOTHESIS TESTING WITH SCIPY**
   
-  ## Startup's Marketing Strategy Development
+## Startup's Marketing Strategy Development
 
   Familiar, a startup of blood transfusion! This Hypothesis testing is focused on developing `Familiar's` marketing strategy.
 
