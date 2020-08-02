@@ -1,5 +1,21 @@
 # **HYPOTHESIS TESTING WITH SCIPY**
   
+  
+## Sample Size Determination
+
+  Sample size determination for, Nosh Mish Mosh, a recipe and ingredient meal delivery service. They ship the raw materials and people get to cook it at their home!
+  
+### Project Goals:
+  - Baseline Conversion Rate.
+  - Lift
+  - Statistical Significance at 90%
+  - What amount of customers need to be surveyed.
+  
+  [[Click Here To See The Project]](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Sample_size_determination.ipynb)
+
+  
+  
+  
 ## Startup's Marketing Strategy Development
 
   Familiar, a startup of blood transfusion! This Hypothesis testing is focused on developing `Familiar's` marketing strategy.
@@ -28,14 +44,3 @@
 
 
 
-## Sample Size Determination
-
-  Sample size determination for, Nosh Mish Mosh, a recipe and ingredient meal delivery service. They ship the raw materials and people get to cook it at their home!
-  
-### Project Goals:
-  - Baseline Conversion Rate.
-  - Lift
-  - Statistical Significance at 90%
-  - What amount of customers need to be surveyed.
-  
-  [[Click Here To See The Project]](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Sample_size_determination.ipynb)
