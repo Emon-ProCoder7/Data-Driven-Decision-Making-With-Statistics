@@ -24,3 +24,18 @@
    - Lets see if "poodle"s and "shihtzu"s have significantly different color breakdowns. 
    
    [[Click Here To See The Project]](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Match_Maker%20Tech%20Startup.py)
+
+
+
+
+## Sample Size Determination
+
+  Sample size determination for, Nosh Mish Mosh, a recipe and ingredient meal delivery service. They ship the raw materials and people get to cook it at their home!
+  
+### Project Goals:
+  - Baseline Conversion Rate.
+  - Lift
+  - Statistical Significance at 90%
+  - What amount of customers need to be surveyed.
+  
+  [[Click Here To See The Project]](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Sample_size_determination.ipynb)
