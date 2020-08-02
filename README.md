@@ -1,5 +1,5 @@
 
-<p align='right'> 
+<p align='left'> 
                          
   <a href="#"><img src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics"></a>
 </p>
