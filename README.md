@@ -23,6 +23,29 @@ Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="h
   
   
   
+  
+
+## Determining a Perfect Price Point Through A/B Test
+
+  Product Manager at FarmBurg, a company that makes a farming simulation social network game. In the FarmBurg game, people can plow, plant, and harvest different crops.The product manager has been conducting an A/B Test with three different variants.
+  
+  
+
+### Project Goals:
+   They are trying to get users to purchase a small FarmBurg upgrade package. It’s called a microtransaction. They’re not sure how much to charge for it, so they tested three different price points: 
+   A) 0.99 $   
+   B) 1.99$, and 
+   C) 4.99 $.
+   
+   I have done binomial test to determine that price point decision.
+ 
+  
+Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Determining_price_point.ipynb)
+  
+  
+  
+  
+  
 ## Startup's Marketing Strategy Development
 
   Familiar, a startup of blood transfusion! This Hypothesis testing is focused on developing `Familiar's` marketing strategy.
