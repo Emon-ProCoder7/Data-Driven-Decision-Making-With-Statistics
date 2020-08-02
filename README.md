@@ -16,8 +16,8 @@
   - Statistical Significance at 90%
   - What amount of customers need to be surveyed.
   
-  [[Click Here To See The Project]](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Sample_size_determination.ipynb)
-
+  
+Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Sample_size_determination.ipynb)
   
   
   
@@ -30,8 +30,8 @@
    - Showing that the subscribers to the Artery Pack experience a significant improvement even beyond what a Vein Pack subscriber’s benefits. (2 sample T-test) 
    - Need to be able to tell if what seems like a higher number of our Artery Package subscribers is a significant difference from what was reported by Vein Package subscribers.(Chi-Square Test)  
  
-   [[Click Here To See The Project]](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Startup%20Marketing%20Strategy.ipynb)
-
+  
+Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Startup%20Marketing%20Strategy.ipynb)
 
 
 ## Match Maker Startup, Management System Development
@@ -44,7 +44,7 @@
    - Which of the pairs of these dog breeds differ from each other.
    - Lets see if "poodle"s and "shihtzu"s have significantly different color breakdowns. 
    
-   [[Click Here To See The Project]](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Match_Maker%20Tech%20Startup.py)
+ Click Here [<img align="left" alt="Python" width="37px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Match_Maker%20Tech%20Startup.py)
 
 
 
