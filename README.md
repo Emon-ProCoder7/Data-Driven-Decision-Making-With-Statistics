@@ -1,11 +1,7 @@
 
-  
-  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                     
-  
-
 <p align='right'> 
   
-# **HYPOTHESIS TESTING WITH SCIPY**
+# **HYPOTHESIS TESTING WITH SCIPY**    [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                     
    
   <a href="#"><img src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics"></a>
 </p>
