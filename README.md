@@ -12,7 +12,7 @@
 
 [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
   
-## Sample Size Determination
+## 01. Sample Size Determination
 
   Sample size determination for, Nosh Mish Mosh, a recipe and ingredient meal delivery service. They ship the raw materials and people get to cook it at their home! These rainbow fingerling potatoes don’t come cheap. They’d like to know for sure that they’ll be pulling in at least $1240 more every week. In order to make product and interface A/B testing decisions to grab more customers, here survey sample size determination is needed for decision making.
   
@@ -29,7 +29,7 @@ Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="h
   
   
 
-## Determining a Perfect Price Point Through A/B Test
+## 02. Determining a Perfect Price Point Through A/B Test
 
   Product Manager at FarmBurg, a company that makes a farming simulation social network game. In the FarmBurg game, people can plow, plant, and harvest different crops.The product manager has been conducting an A/B Test with three different variants.
   
@@ -50,7 +50,7 @@ Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="h
   
   
   
-## Startup's Marketing Strategy Development
+## 03. Startup's Marketing Strategy Development
 
   Familiar, a startup of blood transfusion! This Hypothesis testing is focused on developing `Familiar's` marketing strategy.
 
@@ -63,7 +63,7 @@ Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="h
 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Startup%20Marketing%20Strategy.ipynb)
 
 
-## Match Maker Startup, Management System Development
+## 04. Match Maker Startup, Management System Development
 
   FetchMaker’s mission is to match up prospective dog owners with their perfect pet. Data on thousands of adoptable dogs are in FetchMaker’s system.
   
