@@ -11,6 +11,8 @@
 # **HYPOTHESIS TESTING WITH SCIPY**   
 
 [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
+
+<br><br>
   
 ## 01. Sample Size Determination
 
@@ -26,7 +28,7 @@
 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Sample_size_determination.ipynb)
   
   
-  
+<br><br><br><br>  
   
 
 ## 02. Determining a Perfect Price Point Through A/B Test
@@ -47,7 +49,7 @@ Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="h
 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Determining_price_point.ipynb)
   
   
-  
+<br><br><br><br>  
   
   
 ## 03. Startup's Marketing Strategy Development
@@ -62,6 +64,7 @@ Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="h
   
 Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics/blob/master/Startup%20Marketing%20Strategy.ipynb)
 
+<br><br><br><br>
 
 ## 04. Match Maker Startup, Management System Development
 
