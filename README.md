@@ -8,7 +8,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
   
-# **HYPOTHESIS TESTING WITH SCIPY**   
+<h1 align = 'center'>HYPOTHESIS TESTING WITH SCIPY<h1>   
 
 [![Author](https://img.shields.io/badge/author-MdTabassumHossainEmon-orange)](https://github.com/Emon-ProCoder7)
 
