@@ -39,9 +39,9 @@ Click Here [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="h
 
 ### Project Goals:
    They are trying to get users to purchase a small FarmBurg upgrade package. It’s called a microtransaction. They’re not sure how much to charge for it, so they tested three different price points: 
-   A) 0.99 $   
-   B) 1.99$, and 
-   C) 4.99 $.
+   1. 0.99 $   
+   2. 1.99$, and 
+   3. 4.99 $.
    
    I have done binomial test to determine that price point decision.
  
